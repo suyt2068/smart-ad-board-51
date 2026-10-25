@@ -36,7 +36,7 @@
 
 ## 配置说明
 
-开源发布版已隐藏真实凭据，使用前请在 wifi_control.c 中替换以下占位符：
+使用前请在 wifi_control.c 中替换以下占位符：
 
 - YOUR_WIFI_SSID / YOUR_WIFI_PASSWORD：你的 WiFi 名称与密码
 - YOUR_IOT_SERVER：你的物联平台服务器地址
